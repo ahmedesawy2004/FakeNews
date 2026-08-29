@@ -1,0 +1,9 @@
+gradio==4.36.1
+scikit-learn>=1.0
+joblib>=1.2.0
+numpy>=1.23.0
+Pillow>=9.0.0
+# Uncomment and specify versions based on your notebooks' environment:
+# torch>=2.0.0
+# torchvision>=0.15.0
+# tensorflow>=2.10.0
